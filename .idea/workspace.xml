@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42abcba4-fe3d-4ea4-8c47-4bdb2fc64b46" name="Default Changelist" comment="" />
+    <list default="true" id="42abcba4-fe3d-4ea4-8c47-4bdb2fc64b46" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,17 +81,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591883469275</updated>
-      <workItem from="1591883473290" duration="932000" />
+      <workItem from="1591883473290" duration="1949000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1591886789868</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591886789868</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1591886788135">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591886788135" />
     <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1591886453325">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591886453325" />
+    <state x="546" y="253" key="Github.ShareDialog" timestamp="1591887146768">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="546" y="253" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1591887146768" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1591886879585">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1591886879585" />
   </component>
 </project>
